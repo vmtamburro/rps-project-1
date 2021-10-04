@@ -1,4 +1,5 @@
 class Game{
+    //TEST
 
     constructor(){
         this.numberOfRounds = null;
