@@ -15,6 +15,7 @@ const Outcomes = {
 Object.freeze(Outcomes); 
 
 class Round{
+
     constructor(playerSelection){
         this.playerSelection = playerSelection;
         this.computerSelection = this.getComputerSelection();
